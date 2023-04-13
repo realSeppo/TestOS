@@ -1,0 +1,10 @@
+C:\Users\spbms\source\repos\TestOS\bin\Debug\netcoreapp2.0\cosmos\TestOS.deps.json
+C:\Users\spbms\source\repos\TestOS\bin\Debug\netcoreapp2.0\cosmos\TestOS.dll
+C:\Users\spbms\source\repos\TestOS\bin\Debug\netcoreapp2.0\cosmos\TestOS.pdb
+C:\Users\spbms\source\repos\TestOS\obj\Debug\netcoreapp2.0\cosmos\TestOS.csproj.AssemblyReference.cache
+C:\Users\spbms\source\repos\TestOS\obj\Debug\netcoreapp2.0\cosmos\TestOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spbms\source\repos\TestOS\obj\Debug\netcoreapp2.0\cosmos\TestOS.AssemblyInfoInputs.cache
+C:\Users\spbms\source\repos\TestOS\obj\Debug\netcoreapp2.0\cosmos\TestOS.AssemblyInfo.cs
+C:\Users\spbms\source\repos\TestOS\obj\Debug\netcoreapp2.0\cosmos\TestOS.csproj.CoreCompileInputs.cache
+C:\Users\spbms\source\repos\TestOS\obj\Debug\netcoreapp2.0\cosmos\TestOS.dll
+C:\Users\spbms\source\repos\TestOS\obj\Debug\netcoreapp2.0\cosmos\TestOS.pdb
